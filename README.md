@@ -9,10 +9,9 @@
 
 <br>
 <p align="left">
-<img src="demo/site.png"/>
-<img src="demo/odds.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
-<img src="demo/trend.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
-<img src="demo/result.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
+
+![odds](https://github.com/Fenomenox/EarlyOddsScraper/blob/master/demo/site.PNG)
+![odds](https://github.com/Fenomenox/EarlyOddsScraper/blob/master/demo/result.PNG)
 </p>
 <br>
 
