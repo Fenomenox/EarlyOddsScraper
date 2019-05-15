@@ -7,6 +7,15 @@
   Odds movement(Asian Handicaps) from all major leagues' matches from the past week, from http://bf.spbo1.com/
 </h4>
 
+<br>
+<p align="left">
+<img src="demo/site.png"/>
+<img src="demo/odds.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
+<img src="demo/trend.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
+<img src="demo/result.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
+</p>
+<br>
+
 # Description
 Perhaps the only publishable part of the betting odds arbitrage project, this code lets the user scrape data that is already gathered by http://bf.spbo1.com/. The site documents the odds movement quite well, but only allows users to access odds from matches that took place within the last seven days
 
